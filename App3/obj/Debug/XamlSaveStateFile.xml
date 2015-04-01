@@ -1,7 +1,7 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\levi\documents\visual studio 2013\projects\app3\app3\obj\debug\intermediatexaml\app3.exe" HashGuid="a09bad3a-53b7-d3ed-9412-610820a306be" />
-    <ReferenceAssembly PathName="c:\users\levi\documents\visual studio 2013\projects\app3\bgtask\bin\debug\bgtask.winmd" HashGuid="a6bbbfd5-7f79-a562-7cbd-3fea8b9a5931" />
+    <ReferenceAssembly PathName="c:\great\clone_test\ex2\wps-ex2\bgtask\bin\debug\bgtask.winmd" HashGuid="a6bbbfd5-7f79-a562-7cbd-3fea8b9a5931" />
     <ReferenceAssembly PathName="c:\great\windowsexercise02\dojolib.dll" HashGuid="4090a22a-4a89-230c-3bce-8751b7dfb926" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

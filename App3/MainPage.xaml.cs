@@ -68,9 +68,11 @@ namespace App3
             if (processing == false) //Se nao...
             {
                 toggleScreen();
-                await Task<int>.Run(() => magicNumb = dojoObj.CreateMagicNumber());
+                int newNumber = 0;
+                await Task<int>.Run(() => newNumber = dojoObj.CreateMagicNumber());
                 if (processing == true) //Se o usuário não cancelou...
                 {
+                    magicNumb = newNumber;
                     magicNumbText.Text = magicNumb.ToString();
                     toggleScreen();
                 }
