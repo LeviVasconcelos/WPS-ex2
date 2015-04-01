@@ -1,0 +1,2 @@
+C:\Users\Levi\Documents\Visual Studio 2013\Projects\App3\App3\App3.csproj;neutral
+C:\Users\Levi\Documents\Visual Studio 2013\Projects\App3\bgTask\bgTask.csproj;neutral
