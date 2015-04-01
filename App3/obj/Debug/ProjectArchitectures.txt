@@ -1,1 +1,1 @@
-C:\great\clone_test\ex2-v2\WPS-ex2\App3\App3.csproj;neutral
+C:\great\clone_test\ex2-v3\WPS-ex2\App3\App3.csproj;neutral
