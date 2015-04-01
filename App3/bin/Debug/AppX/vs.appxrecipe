@@ -7,8 +7,8 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>f254d38e-b291-486f-87d2-b6535f55d5c9</PackageIdentityName>
-    <IntermediateOutputPath>C:\great\clone_test\ex2\WPS-ex2\App3\obj\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>F97D45FCA971938BDFF3EED0D7C9423898BA88947966FFF915328A5CE3AA6C8F</RegisteredManifestChecksum>
+    <IntermediateOutputPath>C:\great\clone_test\ex2-v2\WPS-ex2\App3\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>13ABA40E802B88F5F9BA4E46AAD6A9FF434E348BEC5E02035108521444BDD0A8</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>f254d38e-b291-486f-87d2-b6535f55d5c9_1.0.0.0_neutral__ss1xkkzr395j0</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>f254d38e-b291-486f-87d2-b6535f55d5c9_ss1xkkzr395j0!App</RegisteredUserModeAppID>
     <RegisteredPackageID>f254d38e-b291-486f-87d2-b6535f55d5c9</RegisteredPackageID>
@@ -17,60 +17,56 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\great\clone_test\ex2\WPS-ex2\App3\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\great\clone_test\ex2-v2\WPS-ex2\App3\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-01T02:46:33.786</Modified>
+      <Modified>2015-04-01T03:43:25.242</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\great\clone_test\ex2\WPS-ex2\App3\bin\Debug\App3.exe">
+    <AppxPackagedFile Include="C:\great\clone_test\ex2-v2\WPS-ex2\App3\bin\Debug\App3.exe">
       <PackagePath>App3.exe</PackagePath>
-      <Modified>2015-04-01T03:36:44.731</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\great\clone_test\ex2\WPS-ex2\bgTask\bin\Debug\bgTask.winmd">
-      <PackagePath>bgTask.winmd</PackagePath>
-      <Modified>2015-04-01T02:46:31.560</Modified>
+      <Modified>2015-04-01T03:43:25.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\great\WindowsExercise02\DojoLib.dll">
       <PackagePath>DojoLib.dll</PackagePath>
       <Modified>2015-03-31T10:54:16.862</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\great\clone_test\ex2\WPS-ex2\App3\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\great\clone_test\ex2-v2\WPS-ex2\App3\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-01T02:45:52.623</Modified>
+      <Modified>2015-04-01T03:42:00.409</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\great\clone_test\ex2\WPS-ex2\App3\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\great\clone_test\ex2-v2\WPS-ex2\App3\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-01T02:45:52.624</Modified>
+      <Modified>2015-04-01T03:42:00.410</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\great\clone_test\ex2\WPS-ex2\App3\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\great\clone_test\ex2-v2\WPS-ex2\App3\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-01T02:45:52.625</Modified>
+      <Modified>2015-04-01T03:42:00.410</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\great\clone_test\ex2\WPS-ex2\App3\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\great\clone_test\ex2-v2\WPS-ex2\App3\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-01T02:45:52.625</Modified>
+      <Modified>2015-04-01T03:42:00.411</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\great\clone_test\ex2\WPS-ex2\App3\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\great\clone_test\ex2-v2\WPS-ex2\App3\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2015-04-01T02:46:32.506</Modified>
+      <Modified>2015-04-01T03:43:24.922</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\great\clone_test\ex2\WPS-ex2\App3\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\great\clone_test\ex2-v2\WPS-ex2\App3\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2015-04-01T02:46:32.506</Modified>
+      <Modified>2015-04-01T03:43:24.922</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\great\clone_test\ex2\WPS-ex2\App3\bin\Debug\App3.xr.xml">
+    <AppxPackagedFile Include="C:\great\clone_test\ex2-v2\WPS-ex2\App3\bin\Debug\App3.xr.xml">
       <PackagePath>App3.xr.xml</PackagePath>
-      <Modified>2015-04-01T02:45:52.688</Modified>
+      <Modified>2015-04-01T03:42:00.481</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\great\clone_test\ex2\WPS-ex2\App3\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\great\clone_test\ex2-v2\WPS-ex2\App3\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-04-01T02:46:32.817</Modified>
+      <Modified>2015-04-01T03:43:25.155</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
